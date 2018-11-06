@@ -1,7 +1,7 @@
 # sparta_global_binarysearch_java
 My fourth Java project, writing a quick sort algorithm.
 
-Author: Sam Grill; Project Start: 17/10/18
+Author: Sam Grill; Project Start: 18/10/18
 
 Brief: My third Java project, writing a quick sort algorithm.
 
