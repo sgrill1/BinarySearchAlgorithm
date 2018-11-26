@@ -1,5 +1,5 @@
 # Binary Search Algorithm
-My fourth Java project, writing a quick sort algorithm.
+My fourth Java project, writing a binary search algorithm.
 
 ## Project Aims 
 To continue with my introduction to working with Java and sorting algorithms. This was an mvc style project using the maven quick-start archtype. This was the fourth preliminary project to the Sort Manager project that can be found on at https://github.com/sgrill1/SortManager.  
