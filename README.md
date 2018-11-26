@@ -1,10 +1,10 @@
-# sparta_global_binarysearch_java
+# Binary Search Algorithm
 My fourth Java project, writing a quick sort algorithm.
 
-Author: Sam Grill; Project Start: 18/10/18
+## Project Aims 
+To continue with my introduction to working with Java and sorting algorithms. This was an mvc style project using the maven quick-start archtype. This was the fourth preliminary project to the Sort Manager project that can be found on at https://github.com/sgrill1/SortManager.  
 
-Brief: My third Java project, writing a quick sort algorithm.
+## How It Works
+The Binary Tree Algorithm uses a "divide and conquer" design to order a collection of numbers. It compares values of the nodes that are added to the tree, against a *root node*. If the new node is greater than the root, it reads down the RHS of the tree. If the new node is less than the root then it reads down the LHS. If there are existing nodes, it compares against each node splitting left or right until there are no nodes below it. At this point the new node is added to the tree. 
 
-Project Aims: Continue with my introduction to working with Java and sorting algorithms. This was the fourth preliminary project to 
-the sparta_global_sort_manager project that can be found on my profile. This was an mvc style project using the maven quick-start archtype.
-
+Once all nodes have been added the algorithm locates minimum value node and reads back up the tree. In this project I have implemented an interface with all the methods neccessary to construct the binary tree and return a binary tree in ascending order.
